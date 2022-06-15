@@ -1,3 +1,3 @@
 # Sobre Mim
 
-- 👋 Olá, meu nome é @tamaramazzuco
+- 👋 Olá, meu nome é **@tamaramazzuco**
